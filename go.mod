@@ -1,3 +1,3 @@
-module github.com/nksama/random-quotes
+module github.com/Nksama/Random-quotes
 
 go 1.16
