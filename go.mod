@@ -1,3 +1,4 @@
-module github.com/Nksama/Random-quotes
-
-go 1.16
+retract (
+    v1.0.0 // Published accidentally.
+    v1.0.1 // Contains retractions only.
+)
