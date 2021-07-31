@@ -1,4 +1,3 @@
-retract (
-    v1.0.0 // Published accidentally.
-    v1.0.1 // Contains retractions only.
-)
+module randomquotes.go
+
+go 1.16
